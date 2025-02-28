@@ -1,4 +1,4 @@
-package artifact_storage
+package storager
 
 import (
 	"io"
